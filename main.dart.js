@@ -50086,13 +50086,15 @@ A.op(B.d.Y("Images ",J.aO(p,1)))
 q.aD(new A.UY(q,p))
 return A.a9(null,r)}})
 return A.aa($async$oS,r)},
-O(a,b){var s,r,q,p=null,o=t.w
-b.R(o).toString
-s=b.R(o).f
-o=b.R(o).f
-r=A.a0I(b).Ci(!1)
-q=this.e.length+1
-return A.en(p,A.a4h(r,new A.yG(new A.Tj(new A.UX(this,"Photos taken from different games"),q,!0,!0,!0),B.vk,B.b7,!1,p,!0,B.rK,!1,p,q,B.aO,B.Al,p,B.aC,p)),new A.G(2511647924),p,o.a.b,p,p,s.a.a)}}
+O(a,b){var s,r,q,p,o=null,n=t.w
+b.R(n).toString
+s=this.e
+r="Photos taken from different games "+B.h.h(s.length)
+q=b.R(n).f
+n=b.R(n).f
+p=A.a0I(b).Ci(!1)
+s=s.length+1
+return A.en(o,A.a4h(p,new A.yG(new A.Tj(new A.UX(this,r),s,!0,!0,!0),B.vk,B.b7,!1,o,!0,B.rK,!1,o,s,B.aO,B.Al,o,B.aC,o)),new A.G(2511647924),o,n.a.b,o,o,q.a.a)}}
 A.UY.prototype={
 $0(){var s,r,q,p,o,n
 for(s=J.aC(this.b),r=this.a.e;s.u();){q=s.gB(s)
